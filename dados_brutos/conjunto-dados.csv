@@ -1,0 +1,52 @@
+﻿"Organização";"Nome";"Descrição";"Tags";"Quantidade Recursos";"Quantidade Reusos";"Quantidade Downloads";"Quantidade Seguidores"
+"Agência Nacional do Cinema";"Canais de Programação de Distribuição Obrigatória Ativos Credenciados na Ancine";"Canal; Nº identificação; Classificação do canal; Tipo de conteúdo do canal; Tipo de oferta; Data de início de oferta; Densidade; Nome programadora; CNPJ da programadora; Classificação da programadora; País programadora.
+
+Última atualização: 01/01/2024";"ANCINE,AUDIOVISUAL,CANAIS,EMPACOTADORAS,PROGRAMADORAS,RADIODIFUSORES,TELEVISÃO,TV";"4";"0";"47";"0"
+"Agência Nacional do Cinema";"Diretores de Obras Não Publicitárias Brasileiras";"Diretor; País do Diretor; Título original da obra; Nº CPB.
+
+Última atualização: 01/01/2024";"ANCINE,AUDIOVISUAL,CINEMA,CPB,DIRETOR,FILME,TELEVISÃO,TV";"4";"0";"77";"0"
+"Agência Nacional do Cinema";"Diretores de Obras não publicitárias estrangeiras (ROE)";"Diretor; Título original; Nº ROE.
+
+Última atualização: 01/01/2024";"ANCINE,DIRETORES,estrangeiros";"4";"0";"8";"0"
+"Agência Nacional do Cinema";"País de Origem das Obras Não Publicitárias Brasileiras";"País de Origem; Título da obra; Nº CPB.
+
+Última atualização: 01/01/2024";"ANCINE,AUDIOVISUAL,CINEMA,TELEVISÃO,TV,país";"4";"0";"24";"0"
+"Agência Nacional do Cinema";"País de Origem de Obras Não Publicitárias Estrangeiras (ROE)";"País; Título original; Nº ROE.
+
+Última atualização: 01/01/2024";"ANCINE,AUDIOVISUAL,CINEMA,TELEVISÃO,TV,país";"4";"0";"16";"0"
+"Agência Nacional do Cinema";"Produtores de Obras Não Publicitárias Brasileiras";"Produtor; CNPJ Produtor; País Produtor; Título da obra; Nº CPB.
+
+Última atualização: 01/01/2024";"ANCINE,AUDIOVISUAL,CINEMA,CPB,FILME,PRODUTOR,TELEVISÃO,TV";"4";"0";"55";"0"
+"Agência Nacional do Cinema";"Produtores de Obras Não Publicitárias Estrangeiras (ROE)";"Produtor; Título original; Nº ROE.
+
+Última atualização: 01/01/2024";"ANCINE,CINEMA,Obras,Produtores,TELEVISÃO,TV,audivisual,estrangeiras";"4";"0";"5";"0"
+"Agência Nacional do Cinema";"Relação de Grupos Econômicos";"Registro da empresa na ANCINE; Razão Social empresa; CNPJ da empresa; Registro do associado na ANCINE; Razão Social agente econômico associado; CNPJ do agente econômico associado; Relação; Data da associação.
+
+Última atualização: 01/02/2024";"ANCINE,Empresas,GRUPO ECONÔMICO,Registro";"4";"0";"19";"1"
+"Agência Nacional do Cinema";"Agentes Econômicos Regulares Registrados na Ancine";"Nº do registro na ANCINE; Data do Registro na ANCINE; Razão Social; CNPJ; Data constituição empresa; UF; Município; Código do município (IBGE); Classificação do agente econômico, Natureza Jurídica; Brasileiro Independente.
+
+Última atualização: 01/02/2024";"AGENTES,ANCINE,AUDIOVISUAL,CINEMA,DISTRIBUIDORAS,EMPACOTADORAS,EXIBIDORES,FILME,PRODUTORAS,PROGRAMADORAS,RADIODIFUSORES,TELEVISÃO,TV";"4";"0";"329";"1"
+"Agência Nacional do Cinema";"Atividades Econômicas dos Agentes Regulares Registrados na Ancine";"Nº do registro na ANCINE; Razão Social; CNPJ; Classificação da atividade (Principal/secundária); Atividade econômica.
+
+Última atualização: 01/02/2024";"ANCINE,ATIVIDADE ECONÔMICA,AUDIOVISUAL,CINEMA,CNAE,DISTRIBUIDORAS,EMPACOTADORAS,EXIBIDORES,FILME,PRODUTORAS,PROGRAMADORAS,RADIODIFUSORES,TELEVISÃO,TV";"4";"0";"118";"0"
+"Agência Nacional do Cinema";"Canais de Programação de Programadoras Ativos Credenciados na Ancine";"Canal; Nº identificação; Classificação do canal; Tipo de conteúdo do canal; Tipo de oferta; Data de início de oferta; Densidade; Nome programadora; CNPJ da programadora; Classificação da programadora; País programadora.
+
+Última atualização: 01/02/2024";"ANCINE,AUDIOVISUAL,CANAIS,EMPACOTADORAS,PROGRAMADORAS,RADIODIFUSORES,TELEVISÃO,TV";"4";"0";"71";"1"
+"Agência Nacional do Cinema";"Produtoras Independentes Regulares Registradas na Ancine";"Razão Social; Nº do registro na ANCINE; CNPJ, UF; Nível.
+
+Última atualização: 01/02/2024";"ANCINE,AUDIOVISUAL,CINEMA,FILME,PRODUTORAS,TELEVISÃO,TV";"4";"0";"344";"1"
+"Agência Nacional do Cinema";"Salas de Exibição e Complexos Registrados na Ancine";"Nome sala; Nº do registro da sala; CNPJ sala; Situação sala; Data situação sala; Data início funcionamento sala; Assentos sala; Assentos cadeirantes; Assentos mobilidade reduzida; Assentos obesidade;  Acesso assentos com rampa; Acesso sala com rampa; Banheiros acessíveis; Nome complexo; Nº do registro do complexo; Situação complexo; Data situação complexo; Página eletrônica do complexo; Endereço complexo; Nº do endereço complexo; Complemento complexo;  Bairro complexo; Município complexo; CEP complexo; UF complexo; Complexo itinerante; Tipo de operação usual; Nome empresa exibidora; Nº do registro do exibidor; CNPJ do exibidor; Situação do exibidor; Nome do grupo exibidor.
+
+Última atualização: 01/02/2024";"ANCINE,AUDIOVISUAL,CINEMA,COMPLEXOS,FILME,SALA DE EXIBIÇÃO";"4";"0";"317";"2"
+"Agência Nacional do Cinema";"Obras Não Publicitárias Estrangeiras: relação de todos os ROEs emitidos; excluindo-se a categoria de ROE “genérico”";"Título original da obra; Título no Brasil; ROE; Data de emissão do ROE; Situação da Obra; Tipo da obra; Subtipo da obra; Classificação da obra; Organização Temporal; Ano de produção (inicial e final); Requerente da obra; CNPJ requerente.
+
+Última atualização: 01/02/2024";"ANCINE,AUDIOVISUAL,CINEMA,TELEVISÃO,TV,obras estrangeiras";"4";"0";"5";"0"
+"Agência Nacional do Cinema";"Obras Não Publicitárias Brasileiras Registradas na Ancine";"Título original da obra; CPB; Data de emissão do CPB; Situação da obra; Tipo da obra; Subtipo da obra; Classificação da obra; Organização Temporal; Duração Total; Quantidade de Episódios (no caso de obras seriadas); Ano de produção (inicial e final); Segmento de destinação inicial; Obra realizada em regime de coprodução Internacional; Requerente; CNPJ Requerente; UF e Município do requerente.
+
+Última atualização: 01/02/2024";"ANCINE,AUDIOVISUAL,CINEMA,COPRODUÇÃO,CPB,FILME,TELEVISÃO,TV";"4";"0";"121";"0"
+"Agência Nacional do Cinema";"Obras Não Publicitárias Brasileiras com Fomento Indireto Aprovado na Ancine (Leis de Incentivo Federais)";"Título da obra; CPB; Nº Salic (no caso de obras com fomento indireto)
+
+Última atualização: 01/02/2024";"ANCINE,AUDIOVISUAL,CINEMA,FOMENTO,TELEVISÃO,TV";"4";"0";"10";"0"
+"Agência Nacional do Cinema";"Obras Não Publicitárias Brasileiras com Investimento do FSA";"Título da obra; CPB; Nº do contrato FSA (no caso de obras com investimento do FSA)
+
+Última atualização: 01/02/2024";"ANCINE,AUDIOVISUAL,CINEMA,FOMENTO,TELEVISÃO,TV";"4";"0";"13";"1"
