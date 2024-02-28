@@ -40,12 +40,9 @@ Salas de Exibição e Complexos = salas_complexos = 12
 Para exibir documentação de arquivo de dados, chamar função: documentacao_especifica()
 argumento: variável raíz
 **
-Para exibir lista de funções úteis: indice_funcao()"""
+FUNÇÕES ÙTEIS
+
+Função para buscar valores nulos: pj.df.achar_valores_nulos(variável)
+"""
         print(doc)
-
-    def indice_funcao():
-
-        funcoes = """
-Função para buscar valores nulos: pj.df.achar_valores_nulos()"""
-
 
