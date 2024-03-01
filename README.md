@@ -1,6 +1,6 @@
 # Agência Nacional do Cinema - ANCINE
 
-![ANCINE](img\logo_ancine.jpg)
+![ANCINE](img/logo_ancine.jpg)
 
 # Indústria Cinematográfica Brasileira : Desafios e Oportunidades na 
 
@@ -24,7 +24,7 @@ O objetivo principal deste projeto é analisar dados da indústria cinematográf
 Para ver código do projeto [clique aqui](Notebook_Novo.ipynb)
 ---
 
-![Gif Cidade de Deus](img\gif_central_do_brasil.webp)
+![Gif Cidade de Deus](img/gif_central_do_brasil.webp)
 
 ---
 
@@ -34,12 +34,12 @@ Para ver código do projeto [clique aqui](Notebook_Novo.ipynb)
 
 Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ) no setor audiovisual. Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
 
-![Contagem de Agentes Econômicos por Estado](img\natureza_juridica_contagem_estados.png)
+![Contagem de Agentes Econômicos por Estado](img/natureza_juridica_contagem_estados.png)
 
 
 ### Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. 
 
-![Distribuição dos Agentes Econômicos por Estado](img\natureza_juridica_distribuicao_estados.png)
+![Distribuição dos Agentes Econômicos por Estado](img/natureza_juridica_distribuicao_estados.png)
 
 Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão um pouco mais equitativa da atividade econômica nas regiões Sul, Sudeste e parte do Nordeste. Estados como Minas Gerais, Rio Grande do Sul, Paraná e Bahia se destacam na mancha de distribuição dos Agentes Econômicos quando é desconsiderados São Paulo e Rio de Janeiro. 
 
@@ -49,7 +49,7 @@ COMPLETAR AQUI - Analisar mais a fundo a distribuição dos agentes nos estados
 
 Estuando mais o tema, vamos analisar o ranking de natureza juridica dos agentes econômicos
 
-![Contagem de Natureza Jurídica](img\natureza_juridica_contagem_atividades.png)
+![Contagem de Natureza Jurídica](img/natureza_juridica_contagem_atividades.png)
 
 
 #### **Desafios Identificados**  
