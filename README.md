@@ -1,10 +1,10 @@
-# AgenciaNacionalDoCinema_ANCINE
+# Agência Nacional do Cinema - ANCINE
 
 ![ANCINE](nova-logo-ancine-ver.jpg)
 
-#### Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados
+## Desafios e Oportunidades na Indústria Cinematográfica Brasileira: Uma Análise de Ciência de Dados
 
-#### **Contexto de Negócio**
+### **Contexto de Negócio**
 
 A qualidade e a amplitude da indústria cinematográfica de um país são reflexos não apenas da sua cultura e sociedade, mas também das suas aspirações, desafios e conquistas. No Brasil, embora a indústria cinematográfica seja ativa e produza um número considerável de filmes anualmente em comparação com países de economias semelhantes, ela enfrenta uma batalha cultural com o cinema estrangeiro, principalmente o americano.
 
@@ -16,34 +16,42 @@ Além disso, as políticas públicas e os incentivos governamentais desempenham 
 
 ___
 
-#### **Objetivo**  
+### **Objetivo**  
 
 O objetivo principal deste projeto é analisar dados da indústria cinematográfica brasileira para entender melhor os desafios enfrentados e identificar possíveis soluções para promover um ambiente mais sustentável e diversificado para a produção nacional de filmes.
-
----
-#### **Metodologia**  
-
-Utilizaremos uma abordagem de ciência de dados, com análise exploratória dos dados fornecidos pela ANCINE, incluindo registros de agentes econômicos, atividades na indústria, financiamento de projetos, perfil de investidores e realizadores, entre outros. Faremos uso de técnicas estatísticas e de visualização de dados para identificar padrões e tendências relevantes.
-
 ---
 
-Natureza Jurídica dos Agentes Econômicos
+Para ver código do projeto [clique aqui](Notebook_Novo.ipynb)
+---
 
+![Gif Cidade de Deus](gif_central_do_brasil.webp)
+
+---
+
+# Natureza Jurídica dos Agentes Econômicos
+
+**Qual a distribuição geográfica dos agentes econômicos no Brasil**
 
 Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ) no setor audiovisual. Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
 
 ![Contagem de Agentes Econômicos por Estado](natureza_juridica_contagem_estados.png)
 
 
-Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ) no setor audiovisual. Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
+### Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. 
 
 ![Distribuição dos Agentes Econômicos por Estado](natureza_juridica_distribuicao_estados.png)
 
-Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão mais equitativa da atividade econômica pelo território nacional. Essa alteração na distribuição reflete as dinâmicas regionais específicas do setor audiovisual fora dos polos tradicionais, revelando potenciais áreas de crescimento e desenvolvimento em outras regiões do país.
+Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão um pouco mais equitativa da atividade econômica nas regiões Sul, Sudeste e parte do Nordeste. Estados como Minas Gerais, Rio Grande do Sul, Paraná e Bahia se destacam na mancha de distribuição dos Agentes Econômicos quando é desconsiderados São Paulo e Rio de Janeiro. 
+
+Essa alteração na distribuição reflete as dinâmicas regionais específicas do setor audiovisual fora dos polos tradicionais, revelando potenciais áreas de crescimento e desenvolvimento em outras regiões do país.
+
+COMPLETAR AQUI - Analisar mais a fundo a distribuição dos agentes nos estados
 
 Estuando mais o tema, vamos analisar o ranking de natureza juridica dos agentes econômicos
 
 ![Contagem de Natureza Jurídica](natureza_juridica_contagem_atividades.png)
+
+
 #### **Desafios Identificados**  
 
 Disparidade no Acesso a Recursos: Acesso desigual aos recursos dentro da indústria cinematográfica, com grandes estúdios e produções de alto orçamento tendo vantagens significativas em relação a cineastas independentes.
