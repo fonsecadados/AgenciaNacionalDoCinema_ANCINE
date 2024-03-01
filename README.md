@@ -1,6 +1,6 @@
 # Agência Nacional do Cinema - ANCINE
 
-![ANCINE](\img\logo_ancine.jpg)
+![ANCINE](img/logo_ancine.jpg)
 
 # Indústria Cinematográfica Brasileira : Desafios e Oportunidades na 
 
