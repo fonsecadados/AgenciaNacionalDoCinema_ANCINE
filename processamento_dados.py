@@ -121,5 +121,4 @@ class LeitorCSV:
             print(f"Quantidade de valroes Nulos:{count}")
 
 
-# proj_fsa_desembolso['ANO_CHAMADA_PUBLICA'] = pd.to_datetime(proj_fsa_desembolso['ANO_CHAMADA_PUBLICA'], format='%Y')
 
