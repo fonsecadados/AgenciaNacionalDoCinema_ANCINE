@@ -2,7 +2,7 @@
 
 ![ANCINE](img/logo_ancine.jpg)
 
-# Indústria Cinematográfica Brasileira : Desafios e Oportunidades na 
+# Indústria Cinematográfica Brasileira : Desafios e Oportunidades 
 
 ### **Contexto de Negócio**
 
