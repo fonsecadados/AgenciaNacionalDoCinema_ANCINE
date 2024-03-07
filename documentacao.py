@@ -37,10 +37,7 @@ Relação de Grupos Econômicos = relacao_grupos_economicos = 11
 Salas de Exibição e Complexos = salas_complexos = 12
 *
 *
-Para exibir documentação de arquivo de dados, chamar função: documentacao_especifica()
-argumento: variável raíz
-**
-FUNÇÕES ÙTEIS
+FUNÇÕES ÚTEIS
 
 Função para buscar valores nulos: pj.df.achar_valores_nulos(variável)
 """
