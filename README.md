@@ -21,7 +21,7 @@ ___
 O objetivo principal deste projeto é analisar dados da indústria cinematográfica brasileira para entender melhor os desafios enfrentados e identificar possíveis soluções para promover um ambiente mais sustentável e diversificado para a produção nacional de filmes.
 ---
 
-Para ver código do projeto [clique aqui](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/ANCINE_DesafiosEOportunidades.ipynb.py)
+Para ver código do projeto [clique aqui](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/ANCINE_DesafiosEOportunidades.ipynb)
 ---
 
 ![Gif Cidade de Deus](img/gif_central_do_brasil.webp)
