@@ -1,8 +1,8 @@
-# Agência Nacional do Cinema - ANCINE
+# Indústria Cinematográfica Brasileira
 
 ![ANCINE](img/logo_ancine.jpg)
 
-# Indústria Cinematográfica Brasileira : Desafios e Oportunidades 
+# ANCINE : Desafios e Oportunidades 
 
 ### **Contexto de Negócio**
 
@@ -27,30 +27,81 @@ Para ver código do projeto [clique aqui](Notebook_Novo.ipynb)
 ![Gif Cidade de Deus](img/gif_central_do_brasil.webp)
 
 ---
+# Conhecendo os Dados
 
-# Natureza Jurídica dos Agentes Econômicos
+*Por conta do modelo de POO que foi aplicado nesse projeto, os dados foram previamente pré-processados, ou seja, não vamos encontrar tabelas com valores nulos ou colunas com tipos de dados equivocados. Para conhecer a documentação desse processo, clique [aqui](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/processamento_dados.py).*
 
-**Qual a distribuição geográfica dos agentes econômicos no Brasil**
+Com a fusão das tabelas "Agentes Econômicos Regulares", "Atividades Econômicas dos Agentes Regulares" e "Produtoras Independentes", temos acesso a uma quantidade considerável de dados, permitindo-nos uma compreensão mais profunda da estrutura dessa população. Esta tabela apresenta dados jurídicos dos agentes registrados na ANCINE, incluindo CNPJ, Natureza Jurídica e Atividade Econômica. 
 
-Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ) no setor audiovisual. Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
+Para dar início a análise foi feita uma junção entre 3 tabelas: Agentes Econômicos Regulares, Atividades Econômicas dos Agentes, e Produtoras Independentes. Essa junção foi feita para agilizar o processo e poluir menos a página do notebook. Para ver o código [clique aqui](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/TabelaUnificadaANCINE.ipynb).  
+
+Além da junção,  criada uma função para retornar um perfil básico do banco de dados escolhido. 
+
+---
+
+# "Produtora Independente"
+
+A minuta da instrução normativa publicada pelo Ministério da Cultura estabelece critérios para classificação de empresa produtora independente para fins de captação de recursos por meio de fomento indireto, recurso de incentivo fiscal federal, relativo às atividades de financiamento de projetos audiovisuais. 
+
+*Art. 2º. Somente as empresas classificadas na ANCINE como produtoras brasileiras independentes estarão aptas a captar recursos por meio de fomento indireto administrado pela ANCINE, de acordo com sua classificação de nível.*
+
+Nesse projeto serão analisados apenas os dados dos Agentes que cumprem os requisitos da normativa e que possuem pontuação na classificação.
+
+---
+
+Essa segmentação da classificação do nível de produtora resultou em um corte 7.196 linhas de dados. Isso se justifica por que a tabela Agentes Econômicos Regulares abrange todos os registros na indústria audiovisual, que não se limita apenas ao processo direto de produção de obras cinematográficas, além do corte  dos agentes que não possuem classificação de nível de produtora, ou seja não é apto para captar recursos de incentivo.
+
+#### Vamos analisar as Atividades Econômicas dos Agentes
+
+Essa análise preliminar sobre as Atividades Econômicas dos Agentes nos retornou 186 tipos diferentes de atividades:
+
+![Contagem de Naturezas Jurídicas](img\df_naturezas_juridicas.PNG)
+
+A lista de palavras mostra uma enorme quantidade outliers que vão poluir futuramente a visualização das nuvens, como preposições, conjunções e palavras recorrentes nos títulos das atividades e que não fazem parte do contexto.
+
+Nuvem de Palavras com as 50 mais recorrentes
+![Contagem de Naturezas Jurídicas](img\nuvem_palavras_top.png)
+
+Nuvem de Palavras com 400 menos recorrentes
+
+![Contagem de Naturezas Jurídicas](img\nuvem_palavras_resto.png)
+
+A nuvem de palavras nos mostra a diversidade de atividades econômicas dentre os agentes com classificação de nível de produtora. Vamos analisar a distribuição geográfica desses agentes
+
+---
+### **Qual a distribuição geográfica dos agentes econômicos no Brasil?**
+
 
 ![Contagem de Agentes Econômicos por Estado](img/natureza_juridica_contagem_estados.png)
 
+Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ) no setor audiovisual. Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
 
-### Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. 
+Além da concentração de agentes dos estados de SP e RJ, vemos também uma concentração evidente nas regiões Sul e Sudeste. Vejamos esse mapa de distribuição:
 
+---
 ![Distribuição dos Agentes Econômicos por Estado](img/natureza_juridica_distribuicao_estados.png)
 
-Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão um pouco mais equitativa da atividade econômica nas regiões Sul, Sudeste e parte do Nordeste. Estados como Minas Gerais, Rio Grande do Sul, Paraná e Bahia se destacam na mancha de distribuição dos Agentes Econômicos quando é desconsiderados São Paulo e Rio de Janeiro. 
+Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão mais equitativa da atividade econômica pelo território nacional. Essa alteração na distribuição reflete as dinâmicas regionais específicas do setor audiovisual fora dos polos tradicionais, revelando potenciais áreas de crescimento e desenvolvimento em outras regiões do país, como os estados da Bahia e Pernambuco, além do Distrito Federal.
 
-Essa alteração na distribuição reflete as dinâmicas regionais específicas do setor audiovisual fora dos polos tradicionais, revelando potenciais áreas de crescimento e desenvolvimento em outras regiões do país.
 
-COMPLETAR AQUI - Analisar mais a fundo a distribuição dos agentes nos estados
+Gráfico de comparação entre o número de produtoras na capital vs a somatória de produtoras fora da capital (Excluindo SP, RJ e o Distrito Federal)
 
-Estuando mais o tema, vamos analisar o ranking de natureza juridica dos agentes econômicos
+![Contagem de Natureza Jurídica](img\comparacao_capital_interior.png)
 
-![Contagem de Natureza Jurídica](img/natureza_juridica_contagem_atividades.png)
+Como podemos ver no gráfico de pizza a seguir, curiosamente Santa Catarina é o único estado da Federação que possui mais agentes no interior que na capital (FLorianópolis), enquanto Roraima é o único estado que só possui agentes na capital (Boa Vista). Outros estados que seguem a tendência de decentralização é o Espírito Santo e Rondônia.
 
+![Contagem de Natureza Jurídica](img\pie.png)
+
+Estudando mais o tema, vamos analisar o ranking de natureza juridica dos agentes econômicos
+
+![Contagem de Natureza Jurídica](img\top_10.png)
+
+
+Apesar da natureza jurídica LTDA (Sociedade Empresária Limitada) controlar majoritariamente a arrecadação no mercado, o MEI (Micro Empreendedor Individual) desempenha um papel significativo na indústria audiovisual brasileira, principalmente em um contexto de transformação digital e na democratização da produção de conteúdo. Através do MEI produtores independentes tem acesso a uma estrutura jurídica simplificada e custos operacionais mais baixos em relação à outras naturezas jurídicas, possibilitando que futuros profissionais da inústria começem seus próprios negócios com mais facilidade. 
+
+Vejamos as classificações de nível de produtora:
+
+![Contagem de Natureza Jurídica](img\nivel_produtora.png)
 
 #### **Desafios Identificados**  
 
