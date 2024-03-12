@@ -59,10 +59,11 @@ Essa análise preliminar sobre as Atividades Econômicas dos Agentes nos retorno
 
 A lista de palavras mostra uma enorme quantidade outliers que vão poluir futuramente a visualização das nuvens, como preposições, conjunções e palavras recorrentes nos títulos das atividades e que não fazem parte do contexto.
 
-Nuvem de Palavras com as 50 mais recorrentes  
+Nuvem de Palavras com as 50 mais recorrentes:    
+   
 ![Contagem de Naturezas Jurídicas](img/nuvem_palavras_top.png)
 
-Nuvem de Palavras com 400 menos recorrentes
+Nuvem de Palavras com 400 menos recorrentes:
 
 ![Contagem de Naturezas Jurídicas](img/nuvem_palavras_resto.png)
 
