@@ -55,16 +55,16 @@ Essa segmentação da classificação do nível de produtora resultou em um cort
 
 Essa análise preliminar sobre as Atividades Econômicas dos Agentes nos retornou 186 tipos diferentes de atividades:
 
-![Contagem de Naturezas Jurídicas](img\df_naturezas_juridicas.PNG)
+![Contagem de Naturezas Jurídicas](img/df_naturezas_juridicas.PNG)
 
 A lista de palavras mostra uma enorme quantidade outliers que vão poluir futuramente a visualização das nuvens, como preposições, conjunções e palavras recorrentes nos títulos das atividades e que não fazem parte do contexto.
 
 Nuvem de Palavras com as 50 mais recorrentes
-![Contagem de Naturezas Jurídicas](img\nuvem_palavras_top.png)
+![Contagem de Naturezas Jurídicas](img/nuvem_palavras_top.png)
 
 Nuvem de Palavras com 400 menos recorrentes
 
-![Contagem de Naturezas Jurídicas](img\nuvem_palavras_resto.png)
+![Contagem de Naturezas Jurídicas](img/nuvem_palavras_resto.png)
 
 A nuvem de palavras nos mostra a diversidade de atividades econômicas dentre os agentes com classificação de nível de produtora. Vamos analisar a distribuição geográfica desses agentes
 
@@ -79,7 +79,7 @@ Observa-se uma concentração considerável de agentes econômicos nos estados d
 Além da concentração de agentes dos estados de SP e RJ, vemos também uma concentração evidente nas regiões Sul e Sudeste. Vejamos esse mapa de distribuição:
 
 ---
-![Distribuição dos Agentes Econômicos por Estado](img/natureza_juridica_distribuicao_estados.png)
+![Distribuição dos Agentes Econômicos por Estado](img\natureza_juridica_distribuicao_estados.png)
 
 Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão mais equitativa da atividade econômica pelo território nacional. Essa alteração na distribuição reflete as dinâmicas regionais específicas do setor audiovisual fora dos polos tradicionais, revelando potenciais áreas de crescimento e desenvolvimento em outras regiões do país, como os estados da Bahia e Pernambuco, além do Distrito Federal.
 
