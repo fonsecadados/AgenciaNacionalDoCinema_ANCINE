@@ -59,7 +59,7 @@ Essa análise preliminar sobre as Atividades Econômicas dos Agentes nos retorno
 
 A lista de palavras mostra uma enorme quantidade outliers que vão poluir futuramente a visualização das nuvens, como preposições, conjunções e palavras recorrentes nos títulos das atividades e que não fazem parte do contexto.
 
-Nuvem de Palavras com as 50 mais recorrentes
+Nuvem de Palavras com as 50 mais recorrentes  
 ![Contagem de Naturezas Jurídicas](img/nuvem_palavras_top.png)
 
 Nuvem de Palavras com 400 menos recorrentes
@@ -79,29 +79,29 @@ Observa-se uma concentração considerável de agentes econômicos nos estados d
 Além da concentração de agentes dos estados de SP e RJ, vemos também uma concentração evidente nas regiões Sul e Sudeste. Vejamos esse mapa de distribuição:
 
 ---
-![Distribuição dos Agentes Econômicos por Estado](img\natureza_juridica_distribuicao_estados.png)
+![Distribuição dos Agentes Econômicos por Estado](img/natureza_juridica_distribuicao_estados.png)
 
 Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão mais equitativa da atividade econômica pelo território nacional. Essa alteração na distribuição reflete as dinâmicas regionais específicas do setor audiovisual fora dos polos tradicionais, revelando potenciais áreas de crescimento e desenvolvimento em outras regiões do país, como os estados da Bahia e Pernambuco, além do Distrito Federal.
 
 
 Gráfico de comparação entre o número de produtoras na capital vs a somatória de produtoras fora da capital (Excluindo SP, RJ e o Distrito Federal)
 
-![Contagem de Natureza Jurídica](img\comparacao_capital_interior.png)
+![Contagem de Natureza Jurídica](img/comparacao_capital_interior.png)
 
 Como podemos ver no gráfico de pizza a seguir, curiosamente Santa Catarina é o único estado da Federação que possui mais agentes no interior que na capital (FLorianópolis), enquanto Roraima é o único estado que só possui agentes na capital (Boa Vista). Outros estados que seguem a tendência de decentralização é o Espírito Santo e Rondônia.
 
-![Contagem de Natureza Jurídica](img\pie.png)
+![Contagem de Natureza Jurídica](img/pie.png)
 
 Estudando mais o tema, vamos analisar o ranking de natureza juridica dos agentes econômicos
 
-![Contagem de Natureza Jurídica](img\top_10.png)
+![Contagem de Natureza Jurídica](img/top_10.png)
 
 
 Apesar da natureza jurídica LTDA (Sociedade Empresária Limitada) controlar majoritariamente a arrecadação no mercado, o MEI (Micro Empreendedor Individual) desempenha um papel significativo na indústria audiovisual brasileira, principalmente em um contexto de transformação digital e na democratização da produção de conteúdo. Através do MEI produtores independentes tem acesso a uma estrutura jurídica simplificada e custos operacionais mais baixos em relação à outras naturezas jurídicas, possibilitando que futuros profissionais da inústria começem seus próprios negócios com mais facilidade. 
 
 Vejamos as classificações de nível de produtora:
 
-![Contagem de Natureza Jurídica](img\nivel_produtora.png)
+![Contagem de Natureza Jurídica](img/nivel_produtora.png)
 
 #### **Desafios Identificados**  
 
