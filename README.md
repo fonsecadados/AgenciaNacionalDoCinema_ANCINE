@@ -72,26 +72,23 @@ A nuvem de palavras nos mostra a diversidade de atividades econômicas dentre os
 ---
 ### **Qual a distribuição geográfica dos agentes econômicos no Brasil?**
 
-
-![Contagem de Agentes Econômicos por Estado](img/natureza_juridica_contagem_estados.png)
-
 Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ) no setor audiovisual. Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
 
 Além da concentração de agentes dos estados de SP e RJ, vemos também uma concentração evidente nas regiões Sul e Sudeste. Vejamos esse mapa de distribuição:
 
+![Contagem de Agentes Econômicos por Estado](img/natureza_juridica_contagem_estados.png)
+
+
+
 ---
-![Distribuição dos Agentes Econômicos por Estado](img/natureza_juridica_distribuicao_estados.png)
 
 Para melhor compreender a distribuição dos agentes econômicos, é necessário considerar a exclusão de SP e RJ da análise. Ao realizar essa exclusão, evidenciam-se padrões diferentes de distribuição, refletindo uma dispersão mais equitativa da atividade econômica pelo território nacional. Essa alteração na distribuição reflete as dinâmicas regionais específicas do setor audiovisual fora dos polos tradicionais, revelando potenciais áreas de crescimento e desenvolvimento em outras regiões do país, como os estados da Bahia e Pernambuco, além do Distrito Federal.
 
-
 Gráfico de comparação entre o número de produtoras na capital vs a somatória de produtoras fora da capital (Excluindo SP, RJ e o Distrito Federal)
 
+Esse próximo painel constatamos 3 informações distintas e incomuns: Curiosamente, enquanto Santa Catarina é o único estado da federação onde o número de produtores em municípios não capitalinos supera o número na capital Florianópolis, Espírito Santo é o estado com a divisão mais equalizada: 49.6% em Vitória e 50.4% fora da capital. Além disso, no estado de Roraima 100% dos produtores estão na capital Boa Vista.
+
 ![Contagem de Natureza Jurídica](img/comparacao_capital_interior.png)
-
-Como podemos ver no gráfico de pizza a seguir, curiosamente Santa Catarina é o único estado da Federação que possui mais agentes no interior que na capital (FLorianópolis), enquanto Roraima é o único estado que só possui agentes na capital (Boa Vista). Outros estados que seguem a tendência de decentralização é o Espírito Santo e Rondônia.
-
-![Contagem de Natureza Jurídica](img/pie.png)
 
 Estudando mais o tema, vamos analisar o ranking de natureza juridica dos agentes econômicos
 
