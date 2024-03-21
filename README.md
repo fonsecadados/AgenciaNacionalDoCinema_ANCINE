@@ -37,6 +37,7 @@ Para dar início a análise foi feita uma junção entre 3 tabelas: Agentes Econ
 
 Além da junção,  criada uma função para retornar um perfil básico do banco de dados escolhido. 
 
+![Mapa Mental](img\mapa_mental.PNG)
 ---
 
 # "Produtora Independente"
