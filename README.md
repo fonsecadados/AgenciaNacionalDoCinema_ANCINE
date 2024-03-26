@@ -98,9 +98,14 @@ Estudando mais o tema, vamos analisar o ranking de natureza juridica dos agentes
 
 Apesar da natureza jurídica LTDA (Sociedade Empresária Limitada) controlar majoritariamente a arrecadação no mercado, o MEI (Micro Empreendedor Individual) desempenha um papel significativo na indústria audiovisual brasileira, principalmente em um contexto de transformação digital e na democratização da produção de conteúdo. Através do MEI produtores independentes tem acesso a uma estrutura jurídica simplificada e custos operacionais mais baixos em relação à outras naturezas jurídicas, possibilitando que futuros profissionais da inústria começem seus próprios negócios com mais facilidade. 
 
+<!--
 Vejamos as classificações de nível de produtora:
 
 ![Contagem de Natureza Jurídica](img/nivel_produtora.png)
+
+-->
+
+
 
 #### **Desafios Identificados**  
 
