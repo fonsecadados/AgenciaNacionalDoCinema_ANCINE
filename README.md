@@ -114,6 +114,30 @@ Disparidade no Acesso a Recursos: Acesso desigual aos recursos dentro da indúst
 Domínio do Cinema Estrangeiro: Predomínio do cinema estrangeiro, principalmente o americano, no mercado brasileiro, o que cria uma competição desigual para as produções locais.
 
 ---
+#### **Séries Temporais**
+
+Análise da valores captados  através de Renúncia FIscal e Desembolso durante o todo o período de coleta dos dados.
+
+![Série Temporal](img/serie_temporal.png)
+
+
+#### **Estatística Descritiva**
+
+#### Sumário de métricas estatísticas
+
+##### Renúncia Fiscal
+![Dados Estatísticos - Renúncia Fiscal](img\sumario_estatistico_renuncia_fiscal.JPG)
+
+##### FSA / Desembolso
+![Dados Estatísticos - FSA / Desembolso](img\sumario_estatistico_fsa_desembolso.JPG)
+
+
+#### Atributos Categóricos
+![Dados Categóricos](img\atributos_categoricos.png)
+
+
+
+
 
 #### **Possíveis Soluções**  
 
