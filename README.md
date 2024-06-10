@@ -126,14 +126,14 @@ Análise da valores captados  através de Renúncia FIscal e Desembolso durante 
 #### Sumário de métricas estatísticas
 
 ##### Renúncia Fiscal
-![Dados Estatísticos - Renúncia Fiscal](img\sumario_estatistico_renuncia_fiscal.JPG)
+![Dados Estatísticos - Renúncia Fiscal](img/sumario_estatistico_renuncia_fiscal.JPG)
 
 ##### FSA / Desembolso
-![Dados Estatísticos - FSA / Desembolso](img\sumario_estatistico_fsa_desembolso.JPG)
+![Dados Estatísticos - FSA / Desembolso](img/sumario_estatistico_fsa_desembolso.JPG)
 
 
 #### Atributos Categóricos
-![Dados Categóricos](img\atributos_categoricos.png)
+![Dados Categóricos](img/atributos_categoricos.png)
 
 
 
