@@ -116,7 +116,7 @@ Vejamos as classificações de nível de produtora:
 
 #### **Desafios Identificados**  
 
-Disparidade no Acesso a Recursos: Acesso desigual aos recursos dentro da indústria cinematográfica, com grandes estúdios e produções de alto orçamento tendo vantagens significativas em relação a cineastas independentes.
+Disparidade no Acesso a Recursos: Acesso desigual aos recursos dentro da indústria cinematográfica, com grandes estúdios e produções de alto orçamento tendo vantagens significativas em relação a produtores independentes.
 
 Domínio do Cinema Estrangeiro: Predomínio do cinema estrangeiro, principalmente o americano, no mercado brasileiro, o que cria uma competição desigual para as produções locais.
 
@@ -127,6 +127,7 @@ Análise da valores captados  através de Renúncia FIscal e Desembolso durante 
 
 ![Série Temporal](img/serie_temporal.png)
 
+O gráfico acima mostra um crescimento consolidado desde o início histórico da captação dos dados - 1993 para captação através de renúncia fiscal e 2009 para leis de incentivo do Fundo Setorial Audiovisual - até o ano de 2019, onde ouve um desmonte sistemático nas leis de fomento cultural proporcionado pelo governo federal vigente na época, trazendo uma desvalorização inédita do mercado audiovisual e do consumo de produção cultural de forma geral. 
 
 #### **Estatística Descritiva**
 
