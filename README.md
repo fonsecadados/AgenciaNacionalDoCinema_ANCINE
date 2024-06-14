@@ -105,13 +105,25 @@ Estudando mais o tema, vamos analisar o ranking de natureza juridica dos agentes
 
 Apesar da natureza jurídica LTDA (Sociedade Empresária Limitada) controlar majoritariamente a arrecadação no mercado, o MEI (Micro Empreendedor Individual) desempenha um papel significativo na indústria audiovisual brasileira, principalmente em um contexto de transformação digital e na democratização da produção de conteúdo. Através do MEI produtores independentes tem acesso a uma estrutura jurídica simplificada e custos operacionais mais baixos em relação à outras naturezas jurídicas, possibilitando que futuros profissionais da inústria começem seus próprios negócios com mais facilidade. 
 
-<!--
+
 Vejamos as classificações de nível de produtora:
 
-![Contagem de Natureza Jurídica](img/nivel_produtora.png)
+![Contagem de Nivel de Produtora](img/nivel_produtora.png)
 
--->
+A classificação de nível de produtora, conforme descrita na minuta da Instrução Normativa, é um sistema regulatório estabelecido pela ANCINE para categorizar empresas produtoras de audiovisual no Brasil com base em critérios específicos. Esta classificação tem como principal objetivo definir a elegibilidade e a capacidade das produtoras para captar recursos através de mecanismos de fomento indireto. Como podemos ver no gráfico acima, existe uma dispariadade enorme na distribuição geográfica dos níveis de classificação, logo no acesso aos mecanismos de fomento. A seguir a tabela mostrando o limite máximo para captaççãode recursos por níveis:
 
+![limite de captação](img\captacao_niveis_produtora.JPG)
+
+Esse estudo nos mostra alguns dados pertinentes:
+
+ * Há um total de 61 Produtoras consagradas com o nível 5 de classificação, sendo que 54 delas estão em SP ou RJ.
+ * SP possui mais produtoras de nivel 5 do que o número total de produtoras em Roraima.
+ * ES é de longe o menor mercado audiovisual do Sudeste, representando apenas 4,9% da fatia da região e possuindo um tamanho 5 vezes menor que o mercado de MG.
+ * ES se equipara em números ao MA, que ocupa a 4° posição no mercado do Nordeste. Enquanto MA possui produtoras de todos os níveis, ES possui apenas produtoras de nível 1 e 2.
+
+Por fim, essa classificação visa garantir que os recursos sejam direcionados de maneira eficiente e que as produtoras atendam a um padrão mínimo de qualidade e conformidade regulatória, promovendo um mercado audiovisual mais saudável e sustentável.
+
+---
 
 
 #### **Desafios Identificados**  
