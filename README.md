@@ -123,11 +123,17 @@ Domínio do Cinema Estrangeiro: Predomínio do cinema estrangeiro, principalment
 ---
 #### **Séries Temporais**
 
-Análise da valores captados  através de Renúncia FIscal e Desembolso durante o todo o período de coleta dos dados.
+Análise da valores captados  através de Renúncia Fiscal e Desembolso durante o todo o período de coleta dos dados.
 
 ![Série Temporal](img/serie_temporal.png)
 
 O gráfico acima mostra um crescimento consolidado desde o início histórico da captação dos dados - 1993 para captação através de renúncia fiscal e 2009 para leis de incentivo do Fundo Setorial Audiovisual - até o ano de 2019, onde ouve um desmonte sistemático nas leis de fomento cultural proporcionado pelo governo federal vigente na época, trazendo uma desvalorização inédita do mercado audiovisual e do consumo de produção cultural de forma geral. 
+
+![Queda na Captação](img/queda_captacao.png)
+
+No gráfico acima podemos ver a redução significativa da captação através das leis de fomento. No caso de Renúncia Fiscal enquanto nos anos de 2018/2019 foi captada uma média de 249 milhões de reais, nos dois anos posteriores houve uma redução de 381%, caindo para 65.3 milhões, valores similares aos anos de 1995/1996. Já no caso de desembolso através do FSA, nos anos de 2017/2018/2019 a média foi de 544 milhões, reduzindo 510% nos anos seguintes, caindo para 106,5 milhões em captação. Esses números refletem a extrema importância das leis de fomento e iniciativas de desenvolvimento do mercado audiovisual como o Fundo Setorial para o crescimento da indústria. A falta de incentivo ao setor reflete diretamente no crescimento econômico regional e nacional.
+
+---
 
 #### **Estatística Descritiva**
 
