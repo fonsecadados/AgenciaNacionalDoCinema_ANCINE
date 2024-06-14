@@ -6,9 +6,9 @@
 
 ### **Contexto de Negócio**
 
-A qualidade e a amplitude da indústria cinematográfica de um país são reflexos não apenas da sua cultura e sociedade, mas também das suas aspirações, desafios e conquistas. No Brasil, embora a indústria cinematográfica seja ativa e produza um número considerável de filmes anualmente em comparação com países de economias semelhantes, ela enfrenta uma batalha cultural com o cinema estrangeiro, principalmente o americano.
+A qualidade e a amplitude da indústria cinematográfica de um país são reflexos não apenas da sua cultura e sociedade, mas também das suas aspirações, desafios e conquistas. No Brasil, embora a indústria cinematográfica seja ativa e produza um número considerável de filmes anualmente em comparação com países de economias semelhantes, ela enfrenta uma batalha cultural com o cinema estrangeiro, principalmente o norte-americano.
 
-O consumo de entretenimento audiovisual no Brasil é largamente dominado pela indústria americana, em parte devido à sua habilidade de produzir filmes com grandes orçamentos e alto apelo comercial. Isso coloca as produções locais em uma competição desafiadora, muitas vezes com recursos financeiros e de marketing limitados em comparação com seus concorrentes estrangeiros.
+O consumo de entretenimento audiovisual no Brasil é largamente dominado pela indústria estadunidense, em parte devido à sua habilidade de produzir filmes com grandes orçamentos e alto apelo comercial. Isso coloca as produções locais em uma competição desafiadora, muitas vezes com recursos financeiros e de marketing limitados em comparação com seus concorrentes estrangeiros.
 
 Um dos principais fatores a considerar é a disparidade no acesso aos recursos dentro da indústria cinematográfica. Enquanto grandes estúdios e produções de alto orçamento geralmente conseguem financiamento e apoio comercial mais facilmente, cineastas independentes e produções de menor escala muitas vezes enfrentam dificuldades para garantir financiamento e distribuição adequada.
 
@@ -18,7 +18,13 @@ ___
 
 ### **Objetivo**  
 
-O objetivo principal deste projeto é analisar dados da indústria cinematográfica brasileira para entender melhor os desafios enfrentados e identificar possíveis soluções para promover um ambiente mais sustentável e diversificado para a produção nacional de filmes.
+O principal objetivo deste projeto é analisar os dados da indústria cinematográfica brasileira para compreender melhor os desafios financeiros e socioeconômicos enfrentados pelos agentes econômicos. Buscamos identificar padrões de comportamento, analisar as projeções de crescimento entre polos locais e a indústria nacional como um todo, além de fomentar a transparência no mercado audiovisual. Nossa meta é promover um ambiente mais sustentável e diversificado para a produção nacional de filmes.
+
+---
+### **Entrega de Resultado**
+
+O projeto tem como meta de entrega um resultado em formato de relatório executivo por ser mais acessivel e de fácil entendimento para o público em geral. Além do relatório, será disponibilizado toda estrutura e documentação do projeto no repositório do Github.
+
 ---
 
 Para ver código do projeto [clique aqui](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/ANCINE_DesafiosEOportunidades.ipynb)
@@ -27,9 +33,9 @@ Para ver código do projeto [clique aqui](https://github.com/fonsecadados/Agenci
 ![Gif Cidade de Deus](img/gif_central_do_brasil.webp)
 
 ---
-# Conhecendo os Dados
+# Análise Exploratória do Dados
 
-*Por conta do modelo de POO que foi aplicado nesse projeto, os dados foram previamente pré-processados, ou seja, não vamos encontrar tabelas com valores nulos ou colunas com tipos de dados equivocados. Para conhecer a documentação desse processo, clique [aqui](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/processamento_dados.py).*
+*Por conta do modelo de POO que foi aplicado nesse projeto, os dados foram previamente pré-processados, ou seja, não vou mostrar aqui as tabelas com valores nulos ou colunas com tipos de dados equivocados. Para conhecer a documentação desse processo, clique [aqui](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/processamento_dados.py).*
 
 Com a fusão das tabelas "Agentes Econômicos Regulares", "Atividades Econômicas dos Agentes Regulares" e "Produtoras Independentes", temos acesso a uma quantidade considerável de dados, permitindo-nos uma compreensão mais profunda da estrutura dessa população. Esta tabela apresenta dados jurídicos dos agentes registrados na ANCINE, incluindo CNPJ, Natureza Jurídica e Atividade Econômica. 
 
@@ -37,7 +43,8 @@ Para dar início a análise foi feita uma junção entre 3 tabelas: Agentes Econ
 
 Além da junção,  criada uma função para retornar um perfil básico do banco de dados escolhido. 
 
-![Mapa Mental](https://github.com/fonsecadados/AgenciaNacionalDoCinema_ANCINE/blob/main/img/mapa_mental.PNG)
+![Mapa Mental](/img/mapa_mental.PNG)
+
 ---
 
 # "Produtora Independente"
@@ -73,7 +80,7 @@ A nuvem de palavras nos mostra a diversidade de atividades econômicas dentre os
 ---
 ### **Qual a distribuição geográfica dos agentes econômicos no Brasil?**
 
-Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ) no setor audiovisual. Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
+Observa-se uma concentração considerável de agentes econômicos nos estados de São Paulo (SP) e Rio de Janeiro (RJ). Tal concentração é influenciada pela centralização das atividades de mercado e da disponibilidade de mão de obra qualificada nesses dois estados.
 
 Além da concentração de agentes dos estados de SP e RJ, vemos também uma concentração evidente nas regiões Sul e Sudeste. Vejamos esse mapa de distribuição:
 
