@@ -112,7 +112,7 @@ Vejamos as classificações de nível de produtora:
 
 A classificação de nível de produtora, conforme descrita na minuta da Instrução Normativa, é um sistema regulatório estabelecido pela ANCINE para categorizar empresas produtoras de audiovisual no Brasil com base em critérios específicos. Esta classificação tem como principal objetivo definir a elegibilidade e a capacidade das produtoras para captar recursos através de mecanismos de fomento indireto. Como podemos ver no gráfico acima, existe uma dispariadade enorme na distribuição geográfica dos níveis de classificação, logo no acesso aos mecanismos de fomento. A seguir a tabela mostrando o limite máximo para captaççãode recursos por níveis:
 
-![limite de captação](img\captacao_niveis_produtora.JPG)
+![limite de captação](img/captacao_niveis_produtora.JPG)
 
 Esse estudo nos mostra alguns dados pertinentes:
 
