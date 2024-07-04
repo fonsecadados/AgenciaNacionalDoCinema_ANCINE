@@ -84,7 +84,7 @@ Observa-se uma concentração considerável de agentes econômicos nos estados d
 
 Além da concentração de agentes dos estados de SP e RJ, vemos também uma concentração evidente nas regiões Sul e Sudeste. Vejamos esse mapa de distribuição:
 
-![Contagem de Agentes Econômicos por Estado](img/natureza_juridica_contagem_estados.png)
+![Contagem de Agentes Econômicos por Estado](img/mapa_distribuicao_agentes_economicos.png)
 
 
 
@@ -96,11 +96,12 @@ Gráfico de comparação entre o número de produtoras na capital vs a somatóri
 
 Esse próximo painel constatamos 3 informações distintas e incomuns: Curiosamente, enquanto Santa Catarina é o único estado da federação onde o número de produtores em municípios não capitalinos supera o número na capital Florianópolis, Espírito Santo é o estado com a divisão mais equalizada: 49.6% em Vitória e 50.4% fora da capital. Além disso, no estado de Roraima 100% dos produtores estão na capital Boa Vista.
 
-![Contagem de Natureza Jurídica](img/comparacao_capital_interior.png)
+![Contagem de Natureza Jurídica](img/grafico_distribuicao_agentes_economicos.png)
 
 Estudando mais o tema, vamos analisar o ranking de natureza juridica dos agentes econômicos
 
-![Contagem de Natureza Jurídica](img/top_10.png)
+![Contagem de Natureza Jurídica](img/mapa_distribuicao_naturezas_juridicas.png)
+
 
 
 Apesar da natureza jurídica LTDA (Sociedade Empresária Limitada) controlar majoritariamente a arrecadação no mercado, o MEI (Micro Empreendedor Individual) desempenha um papel significativo na indústria audiovisual brasileira, principalmente em um contexto de transformação digital e na democratização da produção de conteúdo. Através do MEI produtores independentes tem acesso a uma estrutura jurídica simplificada e custos operacionais mais baixos em relação à outras naturezas jurídicas, possibilitando que futuros profissionais da inústria começem seus próprios negócios com mais facilidade. 
@@ -108,7 +109,7 @@ Apesar da natureza jurídica LTDA (Sociedade Empresária Limitada) controlar maj
 
 Vejamos as classificações de nível de produtora:
 
-![Contagem de Nivel de Produtora](img/nivel_produtora.png)
+![Contagem de Nivel de Produtora](img/mapa_distribuicao_nivel_produtora.png)
 
 A classificação de nível de produtora, conforme descrita na minuta da Instrução Normativa, é um sistema regulatório estabelecido pela ANCINE para categorizar empresas produtoras de audiovisual no Brasil com base em critérios específicos. Esta classificação tem como principal objetivo definir a elegibilidade e a capacidade das produtoras para captar recursos através de mecanismos de fomento indireto. Como podemos ver no gráfico acima, existe uma dispariadade enorme na distribuição geográfica dos níveis de classificação, logo no acesso aos mecanismos de fomento. A seguir a tabela mostrando o limite máximo para captaççãode recursos por níveis:
 
@@ -137,11 +138,11 @@ Domínio do Cinema Estrangeiro: Predomínio do cinema estrangeiro, principalment
 
 Análise da valores captados  através de Renúncia Fiscal e Desembolso durante o todo o período de coleta dos dados.
 
-![Série Temporal](img/serie_temporal.png)
+![Série Temporal](img/grafico_serie_temporal_valores_captados.png)
 
 O gráfico acima mostra um crescimento consolidado desde o início histórico da captação dos dados - 1993 para captação através de renúncia fiscal e 2009 para leis de incentivo do Fundo Setorial Audiovisual - até o ano de 2019, onde ouve um desmonte sistemático nas leis de fomento cultural proporcionado pelo governo federal vigente na época, trazendo uma desvalorização inédita do mercado audiovisual e do consumo de produção cultural de forma geral. 
 
-![Queda na Captação](img/queda_captacao.png)
+![Queda na Captação](img/grafico_barra_retracao_captacao.png)
 
 No gráfico acima podemos ver a redução significativa da captação através das leis de fomento. No caso de Renúncia Fiscal enquanto nos anos de 2018/2019 foi captada uma média de 249 milhões de reais, nos dois anos posteriores houve uma redução de 381%, caindo para 65.3 milhões, valores similares aos anos de 1995/1996. Já no caso de desembolso através do FSA, nos anos de 2017/2018/2019 a média foi de 544 milhões, reduzindo 510% nos anos seguintes, caindo para 106,5 milhões em captação. Esses números refletem a extrema importância das leis de fomento e iniciativas de desenvolvimento do mercado audiovisual como o Fundo Setorial para o crescimento da indústria. A falta de incentivo ao setor reflete diretamente no crescimento econômico regional e nacional.
 
